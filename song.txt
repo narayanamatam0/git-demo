@@ -1,3 +1,4 @@
 Hello this is my first file of git
-
 I'll use it for git
+Good morning to all
+Have a nice day!
